@@ -23,7 +23,7 @@ Have used:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,dart,flutter,figma,blender,au,ae,ai,ps,pr," />
+    <img src="https://skillicons.dev/icons?i=selenium,dart,flutter,figma,blender,au,ae,ai,ps,pr&perline=5" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ Still using:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,flask,git,github,html,linux,powershell,py,qt,raspberrypi,regex,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,flask,git,github,html,linux,powershell,py,qt,raspberrypi,regex,stackoverflow&perline=7" />
   </a>
 </p>
 
