@@ -23,7 +23,7 @@ Have used:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,dart,flutter,figma,blender,au,ae,ai,ps,pr&perline=5" />
+    <img src="https://skillicons.dev/icons?i=selenium,dart,flutter,figma,blender,ae,ai,ps,pr" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ A Touch of:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,lua,mongodb,mysql,go" />
+    <img src="https://skillicons.dev/icons?i=nginx,lua,mongodb,mysql,go,au" />
   </a>
 </p>
 
