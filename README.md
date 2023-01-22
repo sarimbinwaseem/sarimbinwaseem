@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Looks like I have to talk about me here... oh
+
+Here we go..
+
+Have used: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium,dart,flutter,figma,blender,au,ae,ai,ps,pr," />
+  </a>
+</p>
+
+A Touch of:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nginx,lua,mongodb,mysql,go" />
+  </a>
+</p>
+
+Still using:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,flask,git,github,html,linux,powershell,py,qt,raspberrypi,regex,stackoverflow" />
+  </a>
+</p>
+
