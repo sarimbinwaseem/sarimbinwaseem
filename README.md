@@ -39,7 +39,7 @@ Still using:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,flask,git,github,html,linux,powershell,py,qt,raspberrypi,regex,stackoverflow,rust&perline=7" />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,flask,git,github,html,linux,powershell,py,qt,raspberrypi,regex,stackoverflow,rust&perline=5" />
   </a>
 </p>
 
