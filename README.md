@@ -25,6 +25,8 @@ Have used:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=selenium,dart,flutter,figma,blender,ae,ai,ps,pr" />
   </a>
+  
+  and Davinci Resolve.
 </p>
 
 A Touch of:
