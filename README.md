@@ -33,7 +33,7 @@ A Touch of:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,lua,mongodb,mysql,go,au" />
+    <img src="https://skillicons.dev/icons?i=nginx,lua,mongodb,mysql,go,au,rust" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Still using:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,flask,git,github,html,linux,powershell,py,qt,raspberrypi,regex,stackoverflow,rust&perline=5" />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,flask,git,github,html,linux,powershell,py,qt,raspberrypi,regex,stackoverflow&perline=5" />
   </a>
 </p>
 
